@@ -37,6 +37,7 @@ Analyzed movie ratings across multiple platforms to identify discrepancies and c
 ![3](assets/img/3.jpg)
 
 ## Certifications
+- JSON and Natural Language Processing in PostgreSQL: University Of Michigan ,2024. [Certificate](https://www.coursera.org/account/accomplishments/certificate/0D0TGHCZEV7V)
 - Excel Skills for Business Specialization: Macquarie University,  2024. [Certificate](https://www.coursera.org/account/accomplishments/certificate/EYC315TCWS31)
 - PostGreSQL Specialization: University Of Michigan ,  2024. [Certificate](https://www.coursera.org/account/accomplishments/certificate/M4QAGA90EBKS)
 - SQL for Data Science: University of California, Davis ,  2023. [Certificate](https://www.coursera.org/account/accomplishments/certificate/TMRBNWKH28VX)
