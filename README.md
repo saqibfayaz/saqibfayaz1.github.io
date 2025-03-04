@@ -19,8 +19,8 @@ and full-stack development for impactful business insights.
 
 **Innovacle Technologies | Data Analyst (_December 2021 - June 2023_)**
 
--Successfully delivered multiple client projects involving data analysis, reporting, and Excel-based
-insights, enhancing data-driven decision-making for businesses.
+- Successfully delivered multiple client projects involving data analysis, reporting, and Excel-based
+   insights, enhancing data-driven decision-making for businesses.
 - Developed and implemented data quality checks, reducing data errors by 15 percent and
 improving overall accuracy.
 - Conducted statistical analysis and predictive modeling to forecast revenue trends.
