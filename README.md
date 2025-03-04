@@ -11,12 +11,14 @@ and full-stack development for impactful business insights.
 
 
 ## Work Experience
+
 **Innovacle Technologies | AI & Computer Vision Engineer (_June 2023 - February 2025_)**
 - Developed an AI-powered tile overlay system for interior design using OpenCV and deep learning
 - Built a real-time deepfake detection model for identifying manipulated videos.
 - Automated vanishing point estimation for perspective alignment in computer vision applications.
 
 **Innovacle Technologies | Data Analyst (_December 2021 - June 2023_)**
+
 -Successfully delivered multiple client projects involving data analysis, reporting, and Excel-based
 insights, enhancing data-driven decision-making for businesses.
 - Developed and implemented data quality checks, reducing data errors by 15 percent and
@@ -27,6 +29,7 @@ improving overall accuracy.
 findings in a clear and concise manner, contributing to increased client satisfaction.
   
 **Mytravaly.com | Web Developer(_September 2019 - June 2021_)**
+
 - Led the development and deployment of the company’s travel website, integrating full-stack
 features for enhanced functionality.
 - Worked with .NET Framework and Django to develop backend services, improving system
