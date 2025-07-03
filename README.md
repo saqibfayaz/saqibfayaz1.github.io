@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst | Dynatrace Associate
 Experienced Data Analyst and Computer Vision Engineer with a background in Web Development, skilled
 in Python, SQL, OpenCV, and Deep Learning. Passionate about AI-driven solutions, machine learning,
 and full-stack development for impactful business insights.
