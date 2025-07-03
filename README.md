@@ -72,6 +72,7 @@ Analyzed movie ratings across multiple platforms to identify discrepancies and c
 ![4](assets/img/3.jpg)
 
 ## Certifications
+- Dynatrace Associate ,2025. [Certificate](https://www.credly.com/badges/36ac6f3f-2753-4689-801f-cf5c6cba0537/public_url)
 - JSON and Natural Language Processing in PostgreSQL: University Of Michigan ,2024. [Certificate](https://www.coursera.org/account/accomplishments/certificate/0D0TGHCZEV7V)
 - Excel Skills for Business Specialization: Macquarie University,  2024. [Certificate](https://www.coursera.org/account/accomplishments/certificate/EYC315TCWS31)
 - PostGreSQL Specialization: University Of Michigan ,  2024. [Certificate](https://www.coursera.org/account/accomplishments/certificate/M4QAGA90EBKS)
