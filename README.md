@@ -39,6 +39,11 @@ website backend and the Android app.
 
 
 
+## Certified Dynatrace Associate
+[Verify Here](https://www.credly.com/badges/36ac6f3f-2753-4689-801f-cf5c6cba0537/public_url)
+Recognized for foundational expertise in application performance monitoring (APM) and observability using the Dynatrace platform.
+![1](assets/img/Partner_Badge_Individual_FINAL-Associate.png)
+
 ## Projects
 ### Telco Customer Churn Analysis and Retention Strategies
 [Github](https://github.com/saqibfayaz/Analytics_Projects/blob/main/Telco_Customer_Data_Subscription_based.ipynb)
