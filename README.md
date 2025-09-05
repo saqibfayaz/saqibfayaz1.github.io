@@ -37,6 +37,17 @@ performance.
 - Implemented optimized API integrations, ensuring real-time synchronization between the
 website backend and the Android app.
 
+## Certified Dynatrace Implementation Professional
+   [Verify Here](https://www.credly.com/badges/54a30203-4c41-4564-b073-e77eefedfcbf/public_url)
+   Certified in Dynatrace Implementation, I specialize in designing and deploying observability solutions that align with business and technical requirements. My expertise includes:
+
+- **Architecture & Planning** –Structuring Dynatrace environments to support scalability, security, and multi-cloud or hybrid deployments.
+- **Platform Implementation** – Installing, configuring, and integrating Dynatrace components including OneAgents, ActiveGates, and extensions.
+- **Data Ingestion & Management** – Enabling and optimizing the flow of metrics, logs, traces, and real user data for comprehensive observability.
+- **Optimization & Governance** – Establishing management zones, alerting profiles, and dashboards that deliver actionable insights without unnecessary noise.
+- **Business Value Realization** – Leveraging Dynatrace capabilities to improve application performance, reduce MTTR, and provide transparency across IT and business teams.
+  ![1](assets/img/dynatrace-implementation-professional-certification.png)
+
 
 
 ## Certified Dynatrace Associate
