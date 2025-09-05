@@ -1,7 +1,5 @@
-# Data Analyst | Dynatrace Associate
-Experienced Data Analyst and Computer Vision Engineer with a background in Web Development, skilled
-in Python, SQL, OpenCV, and Deep Learning. Passionate about AI-driven solutions, machine learning,
-and full-stack development for impactful business insights.
+# Data Analyst | Computer Vision Engineer | Dynatrace Implementation Professional
+Experienced Data Analyst, Computer Vision Engineer, and Dynatrace Implementation Professional with a background in Web Development, skilled in Python, SQL, OpenCV, and Deep Learning. Passionate about AI-driven solutions, machine learning, and full-stack development for impactful business insights.
 [Porfolio Projects Directory](https://github.com/saqibfayaz/Analytics_Projects)
 
 #### Technical Skills: Python, R, NumPy, Pandas, Matplotlib, Seaborn, SQL, Tableau, Power BI, Google BigQuery, SKLearn, MS Excel, Git, HTML, CSS, JavaScript, React.js, .NET Framework, SharePoint Development & Integration, Vite, TensorFlow, PyTorch, OpenCV, Predictive Modeling, PostgreSQL, AWS, Google Cloud (Colab and BigQuery), CI/ CD,GitHub Actions.
